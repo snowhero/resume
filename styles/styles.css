@@ -1,0 +1,31 @@
+.box-left {
+    padding: 20px 5px 10px 20px;
+}
+
+.box-right {
+    padding: 20px 20px 10px 5px;
+}
+
+.head-wrapper {
+    height: auto;
+}
+
+.head-text {
+    margin-bottom: 9px;
+}
+
+.head-hr {
+    margin-top: 0px;
+}
+
+.my-name {
+    color: #2F4F4F;
+}
+
+.my-title {
+    color: #388E8E;
+}
+
+.no-padding {
+    padding: 0;
+}
